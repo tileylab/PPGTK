@@ -6,6 +6,9 @@ Python package for polyploid population genomics analyses and data exploration
 ## Disclaimer
 This package is in early developmental stages and a lot of functionality and specific commands are still a work in progress. The *classify-ploidy* method does work and has been vetted against several test datasets. Publication of the methods are anticipated in the near future but made available in case it is helpful for some exploratory analyses.
 
+* A preprint is available regarding the *classify-ploidy* method [here](https://www.biorxiv.org/content/10.64898/2026.09.06.749761v1)
+* A manuscript regarding the other functions is currently under review
+
 ## Installation
 
 ### Conda Install

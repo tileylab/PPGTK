@@ -10,6 +10,8 @@ setup(
     version="0.1.0",
     license='MIT',
     url='https://github.com/gtiley/ppgtk',
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     py_modules = ['ppgtk_cli'],
     packages=find_packages(include=["ppgtk","ppgtk.*"]),
     python_requires=">=3.11",
